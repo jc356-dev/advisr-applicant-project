@@ -18,7 +18,7 @@ Before you begin, make sure you have the following installed tools on your syste
 2. Navigate to the project folder:
 
     ```bash
-    cd test-vue-express
+    cd advisr-applicant-project
     ```
 
 ### To run the server:
